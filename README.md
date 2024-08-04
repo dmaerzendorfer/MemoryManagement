@@ -1,3 +1,6 @@
+This is an old assignment from my Bachelor studies. Its not that fancy but I enjoyed coding it so I made it public :)
+
+
 Dokumentation für mym.(c|h)
 
     Diese Library stellt Code zur Verfügung welcher es erlaubt
